@@ -69,8 +69,7 @@ Pathway Refinement: Future work will focus on refining the aromatic degradation 
 Incorporation of Regulatory Elements: The addition of regulatory mechanisms for better simulation of metabolic control in response to environmental cues.
 
 References:
-KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.
-BiGG Models: Biochemical Genetic Network Models for metabolic networks.
-UNIPROT: Protein sequence and function data for Pseudomonas putida.
-NCBI: Genomic data for Pseudomonas putida KT2440.
-Literature: Key studies on Pseudomonas putida metabolism, biodegradation, and biotechnological applications.
+KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.\
+BiGG Models: Biochemical Genetic Network Models for metabolic networks.\
+UNIPROT: Protein sequence and function data for Pseudomonas putida.\
+NCBI: Genomic data for Pseudomonas putida KT2440.\
