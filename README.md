@@ -38,9 +38,9 @@ Assumptions regarding the stoichiometry of the model, ensuring charge and mass b
 ## Model Construction and Curation:
 The Pseudomonas putida KT2440 GEM was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases and scientific literature. The major curation steps include:
 
-**Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI. 
+**Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.\ 
 
-**Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data. 
+**Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data.\
 
 **Stoichiometric Consistency Checks**: Quality control measures were applied to ensure that the model is stoichiometrically and charge-balanced.\
 Curation Steps: 
@@ -69,7 +69,7 @@ Pathway Refinement: Future work will focus on refining the aromatic degradation 
 Incorporation of Regulatory Elements: The addition of regulatory mechanisms for better simulation of metabolic control in response to environmental cues.
 
 References:
-KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways. 
-BiGG Models: Biochemical Genetic Network Models for metabolic networks. 
-UNIPROT: Protein sequence and function data for Pseudomonas putida. 
+KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.\ 
+BiGG Models: Biochemical Genetic Network Models for metabolic networks.\
+UNIPROT: Protein sequence and function data for Pseudomonas putida.\ 
 NCBI: Genomic data for Pseudomonas putida KT2440.
