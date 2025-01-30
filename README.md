@@ -56,9 +56,7 @@ The model can be used for a variety of metabolic simulations, including:
 **Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.\
 
 ## Results and Findings (Preliminary Simulations):
-Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.
-Aromatic Compound Degradation: Simulations predict efficient degradation of aromatic compounds like toluene and phenol, important for bioremediation applications.
-Organic Acid Production: Organic acid production (e.g., succinate, acetate) is maximized under limited oxygen and nitrogen conditions, which could be harnessed for industrial applications.
+Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.\
 Carbon Flux Distribution: The flux through the TCA cycle and glycolysis was predicted to be optimized for maximal energy production under aerobic conditions.
 
 ## Limitations and Future Work:
