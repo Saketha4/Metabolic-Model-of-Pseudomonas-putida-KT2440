@@ -17,7 +17,7 @@ The model encompasses approximately 500 reactions and 550 metabolites, covering 
 
 Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway. \
 Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways. \
-Oxidative Phosphorylation \
+Oxidative Phosphorylation 
 
 ## Data Sources, Tools, and Databases:
 KEGG: Kyoto Encyclopedia of Genes and Genomes.
@@ -25,8 +25,8 @@ BiGG Models: Biochemical Genetic Network Models for metabolic networks.
 UNIPROT: Protein sequence and function database.
 COBRApy: Python library for Constraint-Based Optimization.
 NCBI: Genome data for Pseudomonas putida KT2440.
-Literature: Key studies on P. putida metabolism and biochemistry, including papers on biodegradation and organic acid production.
-Constraints and Assumptions:
+
+### Constraints and Assumptions:
 Objective Function: The model is built with biomass production as a default objective function. Alternative objectives include organic acid production (e.g., succinate, acetate) for biotechnological applications.
 
 ## Constraints:
