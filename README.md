@@ -13,7 +13,7 @@ This model represents the metabolic network of Pseudomonas putida KT2440 with a 
 * Extracellular (e)
   
 **Reactions and Metabolites**:
-The model encompasses approximately 500 reactions and 550 metabolites, covering pathways such as:
+The model encompasses approximately ###147### reactions and ###108### metabolites, covering pathways such as:
 
 Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway. 
 Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways.
@@ -38,9 +38,9 @@ Assumptions regarding the stoichiometry of the model, ensuring charge and mass b
 ## Model Construction and Curation:
 The Pseudomonas putida KT2440 GEM was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases and scientific literature. The major curation steps include:
 
-**Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.\ 
+**Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.
 
-**Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data.\
+**Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data.
 
 **Stoichiometric Consistency Checks**: Quality control measures were applied to ensure that the model is stoichiometrically and charge-balanced.\
 Curation Steps: 
@@ -52,11 +52,11 @@ Quality checks: Ensured that the reactions followed mass and charge balance.
 ## Simulation Protocols:
 The model can be used for a variety of metabolic simulations, including:
 
-**Flux Balance Analysis (FBA)**: To predict optimal flux distributions under different conditions, such as nutrient availability or changes in media composition.\
-**Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.\
+**Flux Balance Analysis (FBA)**: To predict optimal flux distributions under different conditions, such as nutrient availability or changes in media composition.<br/>
+**Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.
 
 ## Results and Findings (Preliminary Simulations):
-Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.\
+Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
 Carbon Flux Distribution: The flux through the TCA cycle and glycolysis was predicted to be optimized for maximal energy production under aerobic conditions.
 
 ## Limitations and Future Work:
