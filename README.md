@@ -39,19 +39,21 @@ Assumptions regarding the stoichiometry of the model, ensuring charge and mass b
 The Pseudomonas putida KT2440 GEM was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases and scientific literature. The major curation steps include:
 
 **Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.\
-**Compartment-Specific Reactions and Metabolites**: Reactions were compartmentalized based on known subcellular locations, such as the cytoplasm, periplasm, and mitochondria.\
+
 **Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data.\
+
 **Stoichiometric Consistency Checks**: Quality control measures were applied to ensure that the model is stoichiometrically and charge-balanced.\
 Curation Steps:\
-Extracted reactions: From KEGG, BiGG, and other metabolic pathway databases.\
-Validation and gap-filling: Added missing reactions for known pathways, especially related to aromatic compound degradation and organic acid production.\
+
+Extracted reactions: From KEGG, BiGG.\
+Validation and gap-filling: Added missing reactions for known pathways.\
 Quality checks: Ensured that the reactions followed mass and charge balance.
 
 ## Simulation Protocols:
 The model can be used for a variety of metabolic simulations, including:
 
-**Flux Balance Analysis (FBA)**: To predict optimal flux distributions under different conditions, such as nutrient availability or changes in media composition.
-**Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.
+**Flux Balance Analysis (FBA)**: To predict optimal flux distributions under different conditions, such as nutrient availability or changes in media composition.\
+**Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.\
 
 ## Results and Findings (Preliminary Simulations):
 Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.
