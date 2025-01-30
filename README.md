@@ -9,8 +9,9 @@ Objective Function: Acetyl
 
 Biological Compartments: The model is structured to include key compartments to reflect cellular organization and facilitate the distribution of metabolic fluxes:
 
-Cytoplasm (c)
-Extracellular (e)
+*Cytoplasm (c)
+*Extracellular (e)
+\
 Reactions and Metabolites:
 The model encompasses approximately 500 reactions and 550 metabolites, covering pathways such as:
 
