@@ -20,10 +20,10 @@ Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways. \
 Oxidative Phosphorylation 
 
 ## Data Sources, Tools, and Databases:
-KEGG: Kyoto Encyclopedia of Genes and Genomes.
-BiGG Models: Biochemical Genetic Network Models for metabolic networks.
-UNIPROT: Protein sequence and function database.
-COBRApy: Python library for Constraint-Based Optimization.
+KEGG: Kyoto Encyclopedia of Genes and Genomes.\
+BiGG Models: Biochemical Genetic Network Models for metabolic networks.\
+UNIPROT: Protein sequence and function database.\
+COBRApy: Python library for Constraint-Based Optimization.\
 NCBI: Genome data for Pseudomonas putida KT2440.
 
 ### Constraints and Assumptions:
