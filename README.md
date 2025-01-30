@@ -5,7 +5,7 @@ PPU_Model
 ## Model Description:
 This model represents the metabolic network of Pseudomonas putida KT2440 with a focus on carbon metabolism, aromatic compound degradation, and organic acid production. The model includes pathways relevant to biodegradation, biomass production, and bioenergy generation.
 
-**Objective Function**: Acetyl
+**Objective Function**: acetyl-CoA carboxylase
 
 **Biological Compartments** : The model is structured to include key compartments to reflect cellular organization and facilitate the distribution of metabolic fluxes:
 
@@ -27,7 +27,7 @@ COBRApy: Python library for Constraint-Based Optimization.\
 NCBI: Genome data for Pseudomonas putida KT2440.
 
 ### Constraints and Assumptions:
-Objective Function: The model is built with biomass production as a default objective function. Alternative objectives include organic acid production (e.g., succinate, acetate) for biotechnological applications.
+Objective Function: The model is built with acetyl-CoA carboxylase as an objective function. Alternative objectives include organic acid production (e.g., succinate, acetate) for biotechnological applications.
 
 ## Constraints:
 
