@@ -15,9 +15,9 @@ This model represents the metabolic network of Pseudomonas putida KT2440 with a 
 **Reactions and Metabolites**:
 The model encompasses approximately 500 reactions and 550 metabolites, covering pathways such as:
 
-Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway.
-Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways.
-Oxidative Phosphorylation
+Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway. \
+Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways. \
+Oxidative Phosphorylation \
 
 ## Data Sources, Tools, and Databases:
 KEGG: Kyoto Encyclopedia of Genes and Genomes.
