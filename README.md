@@ -13,7 +13,7 @@ This model represents the metabolic network of Pseudomonas putida KT2440 with a 
 * Extracellular (e)
   
 **Reactions and Metabolites**:
-The model encompasses approximately ###147### reactions and ###108### metabolites, covering pathways such as:
+The model encompasses approximately ***147*** reactions and ***108*** metabolites, covering pathways such as:
 
 Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway. 
 Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways.
