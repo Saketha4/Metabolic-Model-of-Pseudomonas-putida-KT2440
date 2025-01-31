@@ -1,7 +1,7 @@
 # Metabolic-Model-of-Pseudomonas-putida-KT2440
 Pseudomonas putida KT2440 is a versatile bacterium known for its ability to degrade aromatic compounds, produce organic acids, and contribute to bioremediation processes. This Metabolic Model (GEM) for P. putida KT2440 is aimed at simulating the metabolic behavior of this bacterium to understand its metabolic network and optimize it for biotechnological applications such as biofuel production, biodegradation, and industrial chemical synthesis.
 
-PPU_Model
+Model Documentation: [PPU_Model](https://1drv.ms/x/c/82e11bf00f8ea8cf/EVeHvyZ0z2ZHvUd4_58L0dABH9neKiB0Peu-2xDo1CZh2w?e=dWcDdJ)
 ## Model Description:
 This model represents the metabolic network of Pseudomonas putida KT2440 with a focus on carbon metabolism, aromatic compound degradation, and organic acid production. The model includes pathways relevant to biodegradation, biomass production, and bioenergy generation.
 
@@ -55,7 +55,8 @@ The model can be used for a variety of metabolic simulations, including:
 
 ## Results and Findings (Preliminary Simulations):
 Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-CoA yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
-Check the PPU_Analysis file for more information.
+
+## Check the PPU_Analysis file for more information.##
 
 ## Limitations and Future Work:
 ### Limitations:
