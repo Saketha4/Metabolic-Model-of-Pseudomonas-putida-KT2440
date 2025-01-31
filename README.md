@@ -34,7 +34,7 @@ Oxygen uptake and nutrient availability (e.g., glucose, nitrogen, phosphorus) ar
 Substrate limitations (carbon sources, nitrogen, etc.) to simulate specific industrial conditions or media.
 
 ## Model Construction and Curation:
-The Pseudomonas putida KT2440 Metabolic model was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases. The major curation steps include:
+The Pseudomonas putida KT2440 Metabolic model was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases. The curation steps include:
 
 **Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.
 
@@ -54,7 +54,7 @@ The model can be used for a variety of metabolic simulations, including:
 **Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.
 
 ## Results and Findings (Preliminary Simulations):
-Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-CoA yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
+Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-CoA yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
 
 ## Check the PPU_Analysis file for more information.##
 
