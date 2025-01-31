@@ -58,10 +58,13 @@ Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has 
 
 ## Limitations and Future Work:
 ### Limitations:
-Incomplete Genome Annotation: Some pathways may still lack detailed annotation due to incomplete genome data.
-Simplified Assumptions: Some assumptions, such as reaction constraints and compartmentalization, may limit the model's accuracy in simulating complex physiological conditions.
-Simplified Transport Reactions: Errors or omissions in transport reactions can misrepresent metabolite exchange across compartments. Some transporters may have been assigned incorrect stoichiometry or directionality, affecting intracellular flux distributions. Lack of explicit transport mechanisms for cofactors (e.g., NADH, ATP) may lead to unrealistic energy balance.
-Assumptions in Reaction Constraints: Some reactions may have been constrained arbitrarily, which could lead to inaccurate flux predictions. Reversibility constraints may not reflect physiological reality, impacting metabolic feasibility.
+* Incomplete Genome Annotation: Some pathways may still lack detailed annotation due to incomplete genome data.
+  
+* Simplified Assumptions: Some assumptions, such as reaction constraints and compartmentalization, may limit the model's accuracy in simulating complex physiological conditions.
+
+* Simplified Transport Reactions: Errors or omissions in transport reactions can misrepresent metabolite exchange across compartments. Some transporters may have been assigned incorrect stoichiometry or directionality, affecting intracellular flux distributions. Lack of explicit transport mechanisms for cofactors (e.g., NADH, ATP) may lead to unrealistic energy balance.
+
+* Assumptions in Reaction Constraints: Some reactions may have been constrained arbitrarily, which could lead to inaccurate flux predictions. Reversibility constraints may not reflect physiological reality, impacting metabolic feasibility.
 
 ### Future Work:
 Pathway Refinement: Future work will focus on refining the aromatic degradation, Fatty Acid and organic acid production pathways.
