@@ -24,7 +24,6 @@ KEGG: Kyoto Encyclopedia of Genes and Genomes.\
 BiGG Models: Biochemical Genetic Network Models for metabolic networks.\
 UNIPROT: Protein sequence and function database.\
 COBRApy: Python library for Constraint-Based Optimization.\
-NCBI: Genome data for Pseudomonas putida KT2440.
 
 ### Constraints and Assumptions:
 Objective Function: The model is built with acetyl-CoA carboxylase as an objective function. Alternative objectives include organic acid production (e.g., succinate, acetate) for biotechnological applications.
@@ -72,4 +71,3 @@ References:
 KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.<br/> 
 BiGG Models: Biochemical Genetic Network Models for metabolic networks.<br/>
 UNIPROT: Protein sequence and function data for Pseudomonas putida.<br/>
-NCBI: Genomic data for Pseudomonas putida KT2440.
