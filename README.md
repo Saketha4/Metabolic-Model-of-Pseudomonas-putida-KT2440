@@ -1,5 +1,5 @@
 # Metabolic-Model-of-Pseudomonas-putida-KT2440
-Pseudomonas putida KT2440 is a versatile bacterium known for its ability to degrade aromatic compounds, produce organic acids, and contribute to bioremediation processes. This Genome-Scale Metabolic Model (GEM) for P. putida KT2440 is aimed at simulating the metabolic behavior of this bacterium to understand its metabolic network and optimize it for biotechnological applications such as biofuel production, biodegradation, and industrial chemical synthesis.
+Pseudomonas putida KT2440 is a versatile bacterium known for its ability to degrade aromatic compounds, produce organic acids, and contribute to bioremediation processes. This Metabolic Model (GEM) for P. putida KT2440 is aimed at simulating the metabolic behavior of this bacterium to understand its metabolic network and optimize it for biotechnological applications such as biofuel production, biodegradation, and industrial chemical synthesis.
 
 PPU_Model
 ## Model Description:
@@ -13,7 +13,7 @@ This model represents the metabolic network of Pseudomonas putida KT2440 with a 
 * Extracellular (e)
   
 **Reactions and Metabolites**:
-The model encompasses approximately ***147*** reactions and ***108*** metabolites, covering pathways such as:
+The model encompasses ***147*** reactions and ***108*** metabolites, covering pathways such as:
 
 Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway. 
 Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways.
@@ -35,11 +35,11 @@ Substrate limitations (carbon sources, nitrogen, etc.) to simulate specific indu
 Assumptions regarding the stoichiometry of the model, ensuring charge and mass balance across reactions.
 
 ## Model Construction and Curation:
-The Pseudomonas putida KT2440 GEM was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases and scientific literature. The major curation steps include:
+The Pseudomonas putida KT2440 Metabolic model was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases. The major curation steps include:
 
 **Extraction and Validation of Reactions**: Reactions were extracted from KEGG and BiGG databases and validated against the genome sequence of P. putida KT2440 from NCBI.
 
-**Filling Gaps**: Additional reactions, particularly for biodegradation of aromatic compounds and organic acid production, were added based on available literature and experimental data.
+**Filling Gaps**: 
 
 **Stoichiometric Consistency Checks**: Quality control measures were applied to ensure that the model is stoichiometrically and charge-balanced.\
 Curation Steps: 
