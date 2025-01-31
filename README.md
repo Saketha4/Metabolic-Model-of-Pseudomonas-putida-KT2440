@@ -32,7 +32,6 @@ Objective Function: The model is built with acetyl-CoA carboxylase as an objecti
 
 Oxygen uptake and nutrient availability (e.g., glucose, nitrogen, phosphorus) are constrained based on typical growth conditions.
 Substrate limitations (carbon sources, nitrogen, etc.) to simulate specific industrial conditions or media.
-Assumptions regarding the stoichiometry of the model, ensuring charge and mass balance across reactions.
 
 ## Model Construction and Curation:
 The Pseudomonas putida KT2440 Metabolic model was constructed using gene annotations, metabolic pathways, and biochemical data sourced from publicly available databases. The major curation steps include:
@@ -55,16 +54,17 @@ The model can be used for a variety of metabolic simulations, including:
 **Gene Knockout Analysis**: To simulate the impact of gene deletions or knockouts on metabolism, and identify potential targets for metabolic engineering or synthetic biology.
 
 ## Results and Findings (Preliminary Simulations):
-Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high biomass yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
-Carbon Flux Distribution: The flux through the TCA cycle and glycolysis was predicted to be optimized for maximal energy production under aerobic conditions.
+Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-CoA yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
 
 ## Limitations and Future Work:
 ### Limitations:
 Incomplete Genome Annotation: Some pathways may still lack detailed annotation due to incomplete genome data.
 Simplified Assumptions: Some assumptions, such as reaction constraints and compartmentalization, may limit the model's accuracy in simulating complex physiological conditions.
-Regulatory Mechanisms: The model currently lacks detailed regulatory information, such as transcriptional control or feedback inhibition mechanisms.
+Simplified Transport Reactions: Errors or omissions in transport reactions can misrepresent metabolite exchange across compartments. Some transporters may have been assigned incorrect stoichiometry or directionality, affecting intracellular flux distributions. Lack of explicit transport mechanisms for cofactors (e.g., NADH, ATP) may lead to unrealistic energy balance.
+Assumptions in Reaction Constraints: Some reactions may have been constrained arbitrarily, which could lead to inaccurate flux predictions. Reversibility constraints may not reflect physiological reality, impacting metabolic feasibility.
+
 ### Future Work:
-Pathway Refinement: Future work will focus on refining the aromatic degradation and organic acid production pathways based on experimental data.
+Pathway Refinement: Future work will focus on refining the aromatic degradation, Fatty Acid and organic acid production pathways.
 Incorporation of Regulatory Elements: The addition of regulatory mechanisms for better simulation of metabolic control in response to environmental cues.
 
 References:
