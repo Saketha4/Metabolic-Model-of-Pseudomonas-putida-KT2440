@@ -16,14 +16,14 @@ This model represents the metabolic network of Pseudomonas putida KT2440 with a 
 The model encompasses ***147*** reactions and ***108*** metabolites, covering pathways such as:
 
 Central Carbon Metabolism: Glycolysis, TCA cycle, pentose phosphate pathway.\
-Nitrogen Metabolism: Nitrogen fixation and ammonia assimilation pathways.\
+Nitrogen Metabolism: Nitrogen fixation.\
 Oxidative Phosphorylation 
 
 ## Data Sources, Tools, and Databases:
 KEGG: Kyoto Encyclopedia of Genes and Genomes.\
 BiGG Models: Biochemical Genetic Network Models for metabolic networks.\
 UNIPROT: Protein sequence and function database.\
-COBRApy: Python library for Constraint-Based Optimization.\
+COBRApy: Python library for Constraint-Based Optimization.
 
 ### Constraints and Assumptions:
 Objective Function: The model is built with acetyl-CoA carboxylase as an objective function. Alternative objectives include organic acid production (e.g., succinate, acetate) for biotechnological applications.
