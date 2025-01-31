@@ -5,7 +5,7 @@ Model Documentation: [PPU_Model](https://1drv.ms/x/c/82e11bf00f8ea8cf/EVeHvyZ0z2
 ## Model Description:
 This model represents the metabolic network of Pseudomonas putida KT2440 with a focus on carbon metabolism. 
 
-**Objective Function**: acetyl-CoA carboxylase
+**Objective Function**: Acetyl-CoA carboxylase
 
 **Biological Compartments** : The model is structured to include key compartments to reflect cellular organization and facilitate the distribution of metabolic fluxes:
 
