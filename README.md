@@ -3,7 +3,7 @@ Pseudomonas putida KT2440 is a versatile bacterium known for its ability to degr
 
 Model Documentation: [PPU_Model](https://1drv.ms/x/c/82e11bf00f8ea8cf/EVeHvyZ0z2ZHvUd4_58L0dABH9neKiB0Peu-2xDo1CZh2w?e=dWcDdJ)
 ## Model Description:
-This model represents the metabolic network of Pseudomonas putida KT2440 with a focus on carbon metabolism, aromatic compound degradation, and organic acid production. The model includes pathways relevant to biodegradation, biomass production, and bioenergy generation.
+This model represents the metabolic network of Pseudomonas putida KT2440 with a focus on carbon metabolism. 
 
 **Objective Function**: acetyl-CoA carboxylase
 
