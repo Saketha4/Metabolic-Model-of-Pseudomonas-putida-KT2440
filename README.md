@@ -56,7 +56,7 @@ The model can be used for a variety of metabolic simulations, including:
 ## Results and Findings (Preliminary Simulations):
 Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-CoA yield when grown on glucose, with optimized pathways for carbon source assimilation.<br/>
 
-## Check the PPU_Analysis file for more information.##
+** Check the PPU_Analysis file for more information **.
 
 ## Limitations and Future Work:
 ### Limitations:
