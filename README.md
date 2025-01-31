@@ -70,7 +70,7 @@ Biomass Yield: Preliminary FBA simulations have shown that P. putida KT2440 has 
 Pathway Refinement: Future work will focus on refining the aromatic degradation, Fatty Acid and organic acid production pathways.
 Incorporation of Regulatory Elements: The addition of regulatory mechanisms for better simulation of metabolic control in response to environmental cues.
 
-References:
+References:\
 KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.<br/> 
 BiGG Models: Biochemical Genetic Network Models for metabolic networks.<br/>
 UNIPROT: Protein sequence and function data for Pseudomonas putida.<br/>
