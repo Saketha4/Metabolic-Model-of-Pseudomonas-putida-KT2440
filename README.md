@@ -70,7 +70,6 @@ Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-
 
 ### Future Work:
 Pathway Refinement: Future work will focus on refining the aromatic degradation, Fatty Acid and organic acid production pathways.
-Incorporation of Regulatory Elements: The addition of regulatory mechanisms for better simulation of metabolic control in response to environmental cues.
 
 References:\
 KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.<br/> 
