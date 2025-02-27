@@ -69,7 +69,7 @@ Preliminary FBA simulations have shown that P. putida KT2440 has a high Malonyl-
 * Assumptions in Reaction Constraints: Some reactions may have been constrained arbitrarily, which could lead to inaccurate flux predictions. Reversibility constraints may not reflect physiological reality, impacting metabolic feasibility.
 
 ### Future Work:
-Pathway Refinement: Future work will focus on refining the aromatic degradation, Fatty Acid and organic acid production pathways.
+Pathway Refinement: Future work will focus on adding the aromatic degradation, Fatty Acid and organic acid production pathways.
 
 References:\
 KEGG: Kyoto Encyclopedia of Genes and Genomes - Pseudomonas putida pathways.<br/> 
